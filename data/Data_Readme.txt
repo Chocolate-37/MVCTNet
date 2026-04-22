@@ -1,0 +1,1 @@
+If you want to create your own dataset to run the code, please refer to the data preprocessing section in the paper to handle your data. Additionally, I have provided an example of a rubber tree point cloud. For the training and test sets, you can refer to the division of the ShapeNetPart public dataset.
