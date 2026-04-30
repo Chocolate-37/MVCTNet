@@ -1,5 +1,5 @@
 # MVCTNet
-A boundary-aware heterogeneous graph framework forfine-grained segmentation of tree crown-trunkcomponents using UAV LiDAR and multi-view imagery
+A boundary-aware heterogeneous graph framework forfine-grained segmentation of tree crown-trunk components using UAV LiDAR and multi-view imagery
 
 ---
 ## Environment Setup
